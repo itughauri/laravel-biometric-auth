@@ -1,6 +1,6 @@
 {
     "name": "laranex/laravel-biometric-auth",
-    "description": "A laravel package to provide asymmetric biometric authentication",
+    "description": "A Laravel package to provide asymmetric biometric authentication",
     "keywords": [
         "Laranex",
         "laravel",
@@ -16,9 +16,9 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": "^8.0.29",
         "spatie/laravel-package-tools": "^1.14.0",
-        "illuminate/contracts": "9.52.16",
+        "illuminate/contracts": "^8.0",
         "ext-openssl": "*"
     },
     "require-dev": {
